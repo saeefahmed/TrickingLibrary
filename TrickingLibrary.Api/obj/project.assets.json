@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\DataG\\source\\repos\\TrickingLibrary.Api\\TrickingLibrary.Api\\TrickingLibrary.Api.csproj",
+      "projectUniqueName": "C:\\Users\\DataG\\source\\repos\\TrickingLibrary\\TrickingLibrary.Api\\TrickingLibrary.Api.csproj",
       "projectName": "TrickingLibrary.Api",
-      "projectPath": "C:\\Users\\DataG\\source\\repos\\TrickingLibrary.Api\\TrickingLibrary.Api\\TrickingLibrary.Api.csproj",
+      "projectPath": "C:\\Users\\DataG\\source\\repos\\TrickingLibrary\\TrickingLibrary.Api\\TrickingLibrary.Api.csproj",
       "packagesPath": "C:\\Users\\DataG\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\DataG\\source\\repos\\TrickingLibrary.Api\\TrickingLibrary.Api\\obj\\",
+      "outputPath": "C:\\Users\\DataG\\source\\repos\\TrickingLibrary\\TrickingLibrary.Api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\DataG\\AppData\\Roaming\\NuGet\\NuGet.Config",
